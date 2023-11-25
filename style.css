@@ -1,0 +1,10 @@
+body {
+    background-color: #333;
+}
+
+.logo a img {
+    position: relative;
+    z-index: 1400;
+    margin: 0 auto;
+    max-width: 140px;
+}
